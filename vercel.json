@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd react-app && npm install && npm run build",
+  "outputDirectory": "react-app/dist",
+  "framework": "vite",
+  "nodeVersion": "20.x"
+}
+
