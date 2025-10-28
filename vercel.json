@@ -1,7 +1,6 @@
 {
   "buildCommand": "cd react-app && npm ci && npm run build",
   "outputDirectory": "react-app/dist",
-  "nodeVersion": "20.x",
   "installCommand": "cd react-app && npm ci"
 }
 
